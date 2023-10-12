@@ -1,0 +1,1 @@
+import{o as t,c as o,a as s,b as e,F as a}from"./index-2f55b69b.js";const i={class:"about"},c=e("div",null,[e("h1",{class:"text-amber-500"},"Dit is een about pagina")],-1),n=e("div",null," Hallo, ik ben Esmé en dit is de website die ik gemaakt heb voor de tweede les. ",-1),m={__name:"AboutView",setup(d){return(r,_)=>(t(),o("div",i,[c,n,s(a)]))}};export{m as default};
